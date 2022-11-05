@@ -101,6 +101,18 @@
   ],
   "payments": [
     {
+      "id": "card",
+      "label": "CUP",
+      "value": "9224 9598 7939 6073",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "MLC",
+      "value": "9225 9598 7074 2639",
+      "img": "./images/payments/card.svg"
+    },
+    {
       "id": "eth",
       "label": "Ethereum",
       "value": "0x91909ea1fA2f8C608a9D9Cb2f3383462E85Bd907",
@@ -135,18 +147,6 @@
       "label": "TropiPay",
       "value": "https://tppay.me/l8iuj6y3",
       "img": "./images/payments/tropipay.svg"
-    },
-    {
-      "id": "card",
-      "label": "CUP",
-      "value": "9224 9598 7939 6073",
-      "img": "./images/payments/card.svg"
-    },
-    {
-      "id": "card",
-      "label": "MLC",
-      "value": "9225 9598 7074 2639",
-      "img": "./images/payments/card.svg"
     },
     {
       "id": "busd",
