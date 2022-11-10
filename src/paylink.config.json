@@ -101,13 +101,13 @@
   ],
   "payments": [
     {
-      "id": "card",
+      "id": "cup",
       "label": "CUP",
       "value": "9224 9598 7939 6073",
       "img": "./images/payments/card.svg"
     },
     {
-      "id": "card",
+      "id": "mlc",
       "label": "MLC",
       "value": "9225 9598 7074 2639",
       "img": "./images/payments/card.svg"
@@ -143,7 +143,7 @@
       "img": "./images/payments/qvapay.svg"
     },
     {
-      "id": "card",
+      "id": "tropipay",
       "label": "TropiPay",
       "value": "https://tppay.me/l8iuj6y3",
       "img": "./images/payments/tropipay.svg"
